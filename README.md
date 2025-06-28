@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **SADA SEEEN Puzzle Game**
+# **Atsha-plus Restuarant App**
 
 <img src="assets\banner.png" alt="Application Poster">
 
@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <img width="320" alt="APP Logo" src="./assets/logo.png">
+        <img width="320" alt="APP Logo" src="./assets/logo.jpg">
       </td>
       <td align="center" width="50%">
         <h2>THIS APP IF FOR SALE <br> (NOT PUBLISHED YET)</h2>
@@ -77,20 +77,30 @@
       <td align="center" width="50%">
         <h2>App Description</h2>
         <p>
-          صدى سين هي لعبة ألغاز ممتعة تشبه لعبة الحروف التقليدية، حيث يقوم اللاعبون بتكوين كلمات باللغة العربية من مجموعة من الحروف المتاحة. تحتوي اللعبة على مستويات متدرجة الصعوبة وتحديات يومية تساعد في إثراء المفردات وتحسين مهارات اللغة العربية بطريقة ممتعة وتفاعلية.
-          </p>
-          <p>
-             Sada Seen is an entertaining puzzle game similar to traditional word games, where players form Arabic words from a set of available letters. The game features progressively challenging levels and daily challenges that help enrich vocabulary and improve Arabic language skills in a fun and interactive way.
-          </p>
+          <strong>Coffee Restaurant Management System</strong><br>
+          A comprehensive multi-platform solution designed for modern coffee restaurants and cafes. This complete ecosystem includes customer-facing mobile applications, delivery service integration, multiple administrative panels, and point-of-sale systems.
+        </p>
+        <p>
+          <strong>Key Features:</strong><br>
+          • Customer Mobile App with ordering, loyalty programs, and table reservations<br>
+          • Delivery App integration for seamless third-party delivery services<br>
+          • Three-tier Admin System (Owner, Admin, Moderator) with role-based permissions<br>
+          • Professional Cashier Application for in-store transactions<br>
+          • Real-time inventory management and analytics<br>
+          • Multi-language support and payment gateway integration
+        </p>
+        <p>
+          <strong>الوصف بالعربية:</strong><br>
+          نظام إدارة متكامل لمطاعم ومقاهي القهوة يشمل تطبيقات الهواتف الذكية للعملاء، تكامل خدمات التوصيل، ثلاث لوحات إدارية متدرجة (المالك، المدير، المشرف)، وتطبيق نقطة البيع للكاشير. يوفر النظام إدارة المخزون في الوقت الفعلي، برامج الولاء، حجز الطاولات، والتحليلات المتقدمة مع دعم متعدد اللغات وبوابات الدفع المتنوعة.
+        </p>
       </td>
       <td align="center" width="50%">
         <h2>Source Code</h2>
-
+ <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
 <p>
 يرجى التقديم من خلال هذا الزر للحصول على صلاحية الوصول إلى كود المصدر. نقوم بذلك لضمان أن الأشخاص المصرح لهم فقط يمكنهم الحصول على الكود، وللحفاظ على التحكم في توزيعه.
    </p>
-        <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
-        <a href="https://younes-codes.web.app">
+        <a href="https://wa.me/message/ERKHEXO2Q2FKN1">
           <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
         </a>
       </td>
@@ -98,50 +108,53 @@
   </tbody>
 </table>
 
-
 # **App Screenshots**
 
 <p align="center">
-  <img width="260" alt="Screenshot 13" src="screenshots/sc (13).png">
-  <img width="260" alt="Screenshot 14" src="screenshots/sc (14).png">
-  <img width="260" alt="Screenshot 15" src="screenshots/sc (15).png">
-
+  <img width="260" alt="Screenshot 1" src="screenshots/sc 1.jpg">
+  <img width="260" alt="Screenshot 2" src="screenshots/sc 2.jpg">
+  <img width="260" alt="Screenshot 3" src="screenshots/sc 3.jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 16" src="screenshots/sc (16).png">
-  <img width="260" alt="Screenshot 17" src="screenshots/sc (17).png">
-  <img width="260" alt="Screenshot 11" src="screenshots/sc (11).png">
-
+  <img width="260" alt="Screenshot 4" src="screenshots/sc 4.jpg">
+  <img width="260" alt="Screenshot 5" src="screenshots/sc 5.jpg">
+  <img width="260" alt="Screenshot 6" src="screenshots/sc 6.jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 2" src="screenshots/sc (2).png">
-  <img width="260" alt="Screenshot 3" src="screenshots/sc (3).png">
-  <img width="260" alt="Screenshot 9" src="screenshots/sc (9).png">
-</p>
-<p align="center">
-  <img width="260" alt="Screenshot 6" src="screenshots/sc (6).png">
-  <img width="260" alt="Screenshot 4" src="screenshots/sc (4).png">
-  <img width="260" alt="Screenshot 5" src="screenshots/sc (5).png">
+  <img width="260" alt="Screenshot 7" src="screenshots/sc 7.jpg">
+  <img width="260" alt="Screenshot 8" src="screenshots/sc 8.jpg">
+  <img width="260" alt="Screenshot 9" src="screenshots/sc 9.jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 7" src="screenshots/sc (7).png">
-  <img width="260" alt="Screenshot 8" src="screenshots/sc (8).png">
-  <img width="260" alt="Screenshot 18" src="screenshots/sc (18).png">
+  <img width="260" alt="Screenshot 10" src="screenshots/sc 10.jpg">
+  <img width="260" alt="Screenshot 11" src="screenshots/sc 11.jpg">
+  <img width="260" alt="Screenshot 12" src="screenshots/sc 12.jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 7" src="screenshots/sc (19).png">
-  <img width="260" alt="Screenshot 8" src="screenshots/sc (20).png">
-  <img width="260" alt="Screenshot 18" src="screenshots/sc (21).png">
+  <img width="260" alt="Screenshot 13" src="screenshots/sc 13.jpg">
+  <img width="260" alt="Screenshot 14" src="screenshots/sc 14.jpg">
+  <img width="260" alt="Screenshot 15" src="screenshots/sc 15.jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (10).png">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (22).png">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (23).png">
+  <img width="260" alt="Screenshot 16" src="screenshots/sc 16.jpg">
+  <img width="260" alt="Screenshot 17" src="screenshots/sc 17.jpg">
+  <img width="260" alt="Screenshot 18" src="screenshots/sc 18.jpg">
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 19" src="screenshots/sc 19.jpg">
+  <img width="260" alt="Screenshot 20" src="screenshots/sc 20.jpg">
+  <img width="260" alt="Screenshot 21" src="screenshots/sc 21.jpg">
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 22" src="screenshots/sc 22j.jpg">
+</p>
 
 </p>
 
