@@ -47,7 +47,7 @@
         <img width="320" alt="APP Logo" src="./assets/logo.jpg">
       </td>
       <td align="center" width="50%">
-        <h2>THIS APP IF FOR SALE <br> (NOT PUBLISHED YET)</h2>
+        <h2>Launching soon ... <br> (Under Review ...)</h2>
        <p align="center">
           <a href=""  target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
@@ -79,15 +79,6 @@
         <p>
           <strong>Coffee Restaurant Management System</strong><br>
           A comprehensive multi-platform solution designed for modern coffee restaurants and cafes. This complete ecosystem includes customer-facing mobile applications, delivery service integration, multiple administrative panels, and point-of-sale systems.
-        </p>
-        <p>
-          <strong>Key Features:</strong><br>
-          • Customer Mobile App with ordering, loyalty programs, and table reservations<br>
-          • Delivery App integration for seamless third-party delivery services<br>
-          • Three-tier Admin System (Owner, Admin, Moderator) with role-based permissions<br>
-          • Professional Cashier Application for in-store transactions<br>
-          • Real-time inventory management and analytics<br>
-          • Multi-language support and payment gateway integration
         </p>
         <p>
           <strong>الوصف بالعربية:</strong><br>
