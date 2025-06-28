@@ -144,7 +144,7 @@
 </p>
 
 <p align="center">
-  <img width="260" alt="Screenshot 22" src="screenshots/sc 22j.jpg">
+  <img width="260" alt="Screenshot 22" src="screenshots/sc 22.jpg">
 </p>
 
 </p>
