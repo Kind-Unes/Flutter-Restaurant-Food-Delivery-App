@@ -27,7 +27,7 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kind-Unes&repo=Balagh-Islamic-Dawaa-App&color=blueviolet&style=for-the-badge)
+![Repository Views](https://komarev.com/ghpvc/?username=Kind-Unes&color=blueviolet&style=for-the-badge&label=Repository+Views)
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
