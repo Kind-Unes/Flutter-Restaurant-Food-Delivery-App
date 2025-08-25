@@ -31,9 +31,6 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **Atsha-plus Restuarant App**
-
-<img src="assets\banner.png" alt="Application Poster">
 
 # **معاينة الفيديو - Video Preview**
 
