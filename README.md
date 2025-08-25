@@ -35,6 +35,22 @@
 
 <img src="assets\banner.png" alt="Application Poster">
 
+# **معاينة الفيديو - Video Preview**
+
+<div align="center">
+  <h3>🎬 شاهد عرض التطبيق التوضيحي</h3>
+  <p>اضغط على الصورة أدناه لمشاهدة فيديو توضيحي شامل للتطبيق</p>
+  
+  <a href="https://drive.google.com/file/d/1bcYZad5ydMeEECjpBq2xx8VYjpz27c5A/view" target="_blank">
+    <img src="https://drive.google.com/thumbnail?id=1bcYZad5ydMeEECjpBq2xx8VYjpz27c5A&sz=w600-h400" alt="معاينة فيديو التطبيق" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  </a>
+  
+  <p><strong>🎥 اضغط للمشاهدة على Google Drive</strong></p>
+  <p>يعرض الفيديو جميع ميزات التطبيق والواجهات المختلفة</p>
+</div>
+
+---
+
 <table border="1" width="100%" >
   <thead>
     <tr>
