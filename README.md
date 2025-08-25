@@ -59,7 +59,7 @@
       <td align="center" width="50%">
         <img width="320" alt="APP Logo" src="./assets/logo.jpg">
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="100%">
         <h2>DOWNLOAD NOW!</h2>
        <p align="center">
           <a href="https://apps.apple.com/us/app/atsha-plus-أتشا-بلس/id6749684409?platform=iphone"  target="_blank">
@@ -74,23 +74,7 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-# **معاينة الفيديو - Video Preview**
-
-<div align="center">
-  <h3>🎬 شاهد عرض التطبيق التوضيحي</h3>
-  <p>اضغط على الصورة أدناه لمشاهدة فيديو توضيحي شامل للتطبيق</p>
-  
-  <a href="https://drive.google.com/file/d/1bcYZad5ydMeEECjpBq2xx8VYjpz27c5A/view" target="_blank">
-    <img src="https://img.youtube.com/vi/placeholder/maxresdefault.jpg" alt="معاينة فيديو التطبيق" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-  </a>
-  
-  <p><strong>🎥 اضغط للمشاهدة على Google Drive</strong></p>
-  <p>يعرض الفيديو جميع ميزات التطبيق والواجهات المختلفة</p>
-</div>
-
----
+</table> 
 
 # **Source Code & Description**
 
