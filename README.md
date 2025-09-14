@@ -44,124 +44,4 @@
   </a>
   
   <p><strong>🎥 اضغط للمشاهدة على Google Drive</strong></p>
-  <p>يعرض الفيديو جميع ميزات التطبيق والواجهات المختلفة</p>
 </div>
-
----
-
-<table border="1" width="100%" >
-  <thead>
-    <tr>
-      <th colspan="2">App Logo & Download</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <img width="320" alt="APP Logo" src="./assets/logo.jpg">
-      </td>
-      <td align="center" width="100%">
-        <h2>DOWNLOAD NOW!</h2>
-       <p align="center">
-          <a href="https://apps.apple.com/us/app/atsha-plus-أتشا-بلس/id6749684409?platform=iphone"  target="_blank">
-            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
-          </a>
-          <a href="https://play.google.com/store/apps/details?id=com.hellaletyounes.atsha&hl=en" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
-          </a>
-            <a href="" target="_blank">
-        </a>
-       </p>
-      </td>
-    </tr>
-  </tbody>
-</table> 
-
-# **Source Code & Description**
-
-<table border="1" width="100%" align="center">
-  <thead>
-    <tr>
-      <th colspan="2">Source Code & Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <h2>App Description</h2>
-        <p>
-          <strong>Coffee Restaurant Management System</strong><br>
-          A comprehensive multi-platform solution designed for modern coffee restaurants and cafes. This complete ecosystem includes customer-facing mobile applications, delivery service integration, multiple administrative panels, and point-of-sale systems.
-        </p>
-        <p>
-          <strong>الوصف بالعربية:</strong><br>
-          نظام إدارة متكامل لمطاعم ومقاهي القهوة يشمل تطبيقات الهواتف الذكية للعملاء، تكامل خدمات التوصيل، ثلاث لوحات إدارية متدرجة (المالك، المدير، المشرف)، وتطبيق نقطة البيع للكاشير. يوفر النظام إدارة المخزون في الوقت الفعلي، برامج الولاء، حجز الطاولات، والتحليلات المتقدمة مع دعم متعدد اللغات وبوابات الدفع المتنوعة.
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h2>Source Code</h2>
- <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
-<p>
-يرجى التقديم من خلال هذا الزر للحصول على صلاحية الوصول إلى كود المصدر. نقوم بذلك لضمان أن الأشخاص المصرح لهم فقط يمكنهم الحصول على الكود، وللحفاظ على التحكم في توزيعه.
-   </p>
-        <a href="https://wa.me/message/ERKHEXO2Q2FKN1">
-          <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-# **App Screenshots**
-
-<p align="center">
-  <img width="260" alt="Screenshot 1" src="screenshots/sc 1.jpg">
-  <img width="260" alt="Screenshot 2" src="screenshots/sc 2.jpg">
-  <img width="260" alt="Screenshot 3" src="screenshots/sc 3.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 4" src="screenshots/sc 4.jpg">
-  <img width="260" alt="Screenshot 5" src="screenshots/sc 5.jpg">
-  <img width="260" alt="Screenshot 6" src="screenshots/sc 6.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 7" src="screenshots/sc 7.jpg">
-  <img width="260" alt="Screenshot 8" src="screenshots/sc 8.jpg">
-  <img width="260" alt="Screenshot 9" src="screenshots/sc 9.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc 10.jpg">
-  <img width="260" alt="Screenshot 11" src="screenshots/sc 11.jpg">
-  <img width="260" alt="Screenshot 12" src="screenshots/sc 12.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 13" src="screenshots/sc 13.jpg">
-  <img width="260" alt="Screenshot 14" src="screenshots/sc 14.jpg">
-  <img width="260" alt="Screenshot 15" src="screenshots/sc 15.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 16" src="screenshots/sc 16.jpg">
-  <img width="260" alt="Screenshot 17" src="screenshots/sc 17.jpg">
-  <img width="260" alt="Screenshot 18" src="screenshots/sc 18.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 19" src="screenshots/sc 19.jpg">
-  <img width="260" alt="Screenshot 20" src="screenshots/sc 20.jpg">
-  <img width="260" alt="Screenshot 21" src="screenshots/sc 21.jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Screenshot 22" src="screenshots/sc 22.jpg">
-</p>
-
-</p>
-
-# **For More Info:**
-
-📲 **Contact Younes Hellalet** on WhatsApp: [Click to Chat](https://wa.me/message/ERKHEXO2Q2FKN1)
